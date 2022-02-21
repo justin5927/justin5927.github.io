@@ -29,6 +29,7 @@ The goal of this webpage is for me to keep track of my life goals (bucketlist). 
 19. Climb a mountain
 20. Learn a new instrument
 21. Gamble in Vegas
+22. Attend the Olympics
 
 ## Stretch List
 1. Visit all 7 Continents

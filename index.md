@@ -1,7 +1,7 @@
 # Justin Au-Yeung Life Goals 
 The goal of this webpage is for me to keep track of my life goals (bucketlist). I plan on adding pages for random blog topics and will eventually make a website when this outgrows github pages. 
 
-For Suggestions for new ideas put them in (https://docs.google.com/document/d/1mr2loKbFlh8Y5DQQ4mg4Q0CP9Uzng-uLfvdrehrqDG4/edit?usp=sharing "Bucket List Idea Doc") 
+For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.google.com/document/d/1mr2loKbFlh8Y5DQQ4mg4Q0CP9Uzng-uLfvdrehrqDG4/edit?usp=sharing) 
 
 ## Completed 
 1. Skydive - July 2017

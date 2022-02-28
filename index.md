@@ -28,10 +28,13 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 16. Learn to lock pick
 17. Bench 225lbs
 18. Vacation Solo
-19. Climb a mountain
+19. Climb a mountain (Higher than mt marcy)
 20. Learn a new instrument
 21. Gamble in Vegas
 22. Attend the Olympics
+23. Tough Mudder
+24. Attend Defcon (Hacker Conference)
+25. Be a extra in a movie
 
 ## Stretch List
 1. Visit all 7 Continents

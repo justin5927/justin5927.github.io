@@ -35,6 +35,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 23. Tough Mudder
 24. Attend Defcon (Hacker Conference)
 25. Be a extra in a movie
+26. Learn to bridge (cards)
 
 ## Stretch List
 1. Visit all 7 Continents

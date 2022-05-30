@@ -4,10 +4,10 @@ The goal of this webpage is for me to keep track of my life goals (bucketlist). 
 For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.google.com/document/d/1mr2loKbFlh8Y5DQQ4mg4Q0CP9Uzng-uLfvdrehrqDG4/edit?usp=sharing) 
 
 ## Completed 
-1. Skydive - July 2017
-2. Officiant for Wedding - September 2021
-3. Marathon - January 2019
-4. Tattoo - September 2020
+1. Skydive - July 2018
+2. Marathon - January 2019
+3. Tattoo - September 2020
+4. Officiant for Wedding - September 2021
 
 ## Bucketlist 
 1. Visit all 50 states

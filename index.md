@@ -36,6 +36,8 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 24. Attend Defcon (Hacker Conference)
 25. Be a extra in a movie
 26. Learn to bridge (cards)
+27. Create a will
+28. Go to Michelin Star Resturant
 
 ## Stretch List
 1. Visit all 7 Continents

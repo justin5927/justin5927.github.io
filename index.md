@@ -8,6 +8,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 2. Marathon - January 2019
 3. Tattoo - September 2020
 4. Officiant for Wedding - September 2021
+5. Stay at 5 star hotel (Encore Boston Harbor) - June 2021
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -21,23 +22,22 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 9. Buy house
 10. See northern lights
 11. Go to psychic
-12. Stay at 5 star hotel
-13. Take a cooking class
-14. Take a dance class
-15. Learn to juggle
-16. Learn to lock pick
-17. Bench 225lbs
-18. Vacation Solo
-19. Climb a mountain (Higher than mt marcy)
-20. Learn a new instrument
-21. Gamble in Vegas
-22. Attend the Olympics
-23. Tough Mudder
-24. Attend Defcon (Hacker Conference)
-25. Be a extra in a movie
-26. Learn to bridge (cards)
-27. Create a will
-28. Go to Michelin Star Resturant
+12. Take a cooking class
+13. Take a dance class
+14. Learn to juggle
+15. Learn to lock pick
+16. Bench 225lbs
+17. Vacation Solo
+18. Climb a mountain (Higher than mt marcy)
+19. Learn a new instrument
+20. Gamble in Vegas
+21. Attend the Olympics
+22. Tough Mudder
+23. Attend Defcon (Hacker Conference)
+24. Be a extra in a movie
+25. Learn to bridge (cards)
+26. Create a will
+27. Go to Michelin Star Resturant
 
 ## Stretch List
 1. Visit all 7 Continents

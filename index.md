@@ -38,6 +38,9 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 25. Learn to bridge (cards)
 26. Create a will
 27. Go to Michelin Star Resturant
+28. Go to NBA Game
+29. Go to NFL Game
+30. Be a Audience Member in a Gameshow
 
 ## Stretch List
 1. Visit all 7 Continents

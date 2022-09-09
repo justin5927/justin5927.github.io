@@ -7,6 +7,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 3. Tattoo - September 2020
 4. Officiant for Wedding - September 2021
 5. Stay at 5 star hotel (Encore Boston Harbor) - June 2021
+6. Take a cooking class (Meatballs) - September 2022
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -20,25 +21,24 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 9. Buy house
 10. See northern lights
 11. Go to psychic
-12. Take a cooking class
-13. Take a dance class
-14. Learn to juggle
-15. Learn to lock pick
-16. Bench 225lbs
-17. Vacation Solo
-18. Climb a mountain (Higher than mt marcy)
-19. Learn a new instrument
-20. Gamble in Vegas
-21. Attend the Olympics
-22. Tough Mudder
-23. Attend Defcon (Hacker Conference)
-24. Be a extra in a movie
-25. Learn to bridge (cards)
-26. Create a will
-27. Go to Michelin Star Resturant
-28. Go to NBA Game
-29. Go to NFL Game
-30. Be a Audience Member in a Gameshow
+12. Take a dance class
+13. Learn to juggle
+14. Learn to lock pick
+15. Bench 225lbs
+16. Vacation Solo
+17. Climb a mountain (Higher than mt marcy)
+18. Learn a new instrument
+19. Gamble in Vegas
+20. Attend the Olympics
+21. Tough Mudder
+22. Attend Defcon (Hacker Conference)
+23. Be a extra in a movie
+24. Learn to bridge (cards)
+25. Create a will
+26. Go to Michelin Star Resturant
+27. Go to NBA Game
+28. Go to NFL Game
+29. Be a Audience Member in a Gameshow
 
 ## Stretch List
 1. Visit all 7 Continents

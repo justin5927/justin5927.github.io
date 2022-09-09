@@ -52,4 +52,4 @@ Tracking all of the states visited and states I need to visit
 - Utah
 - Washington
 - Wisconsin
-- wyoming
+- Wyoming

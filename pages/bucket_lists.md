@@ -3,11 +3,12 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 
 ## Completed 
 1. Skydive - July 2018
-2. Marathon - January 2019
+2. Marathon - January 2020
 3. Tattoo - September 2020
 4. Officiant for Wedding - September 2021
 5. Stay at 5 star hotel (Encore Boston Harbor) - June 2021
 6. Take a cooking class (Meatballs) - September 2022
+7. Learn to bridge (cards) - October 2022
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -33,12 +34,11 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 21. Tough Mudder
 22. Attend Defcon (Hacker Conference)
 23. Be a extra in a movie
-24. Learn to bridge (cards)
-25. Create a will
-26. Go to Michelin Star Resturant
-27. Go to NBA Game
-28. Go to NFL Game
-29. Be a Audience Member in a Gameshow
+24. Create a will
+25. Go to Michelin Star Resturant
+26. Go to NBA Game
+27. Go to NFL Game
+28. Be a Audience Member in a Gameshow
 
 ## Stretch List
 1. Visit all 7 Continents

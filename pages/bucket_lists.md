@@ -9,6 +9,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 5. Stay at 5 star hotel (Encore Boston Harbor) - June 2021
 6. Take a cooking class (Meatballs) - September 2022
 7. Learn to bridge (cards) - October 2022
+8. Go to NFL Game - October 2022
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -37,7 +38,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 24. Create a will
 25. Go to Michelin Star Resturant
 26. Go to NBA Game
-27. Go to NFL Game
+27. Have 1000 Connections on Linkedin
 28. Be a Audience Member in a Gameshow
 
 ## Stretch List

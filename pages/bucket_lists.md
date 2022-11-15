@@ -41,6 +41,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 27. Have 1000 Connections on Linkedin
 28. Be a Audience Member in a Gameshow
 29. Do a Sensory Deprivation Tank
+30. Axe Throwing
 
 ## Stretch List
 1. Visit all 7 Continents

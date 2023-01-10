@@ -11,6 +11,8 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 7. Learn to bridge (cards) - October 2022
 8. Go to NFL Game - October 2022
 9. Have 1000 Connections on Linkedin - December 2022
+10. Write a blog (Wrote on Medium) - December 2022
+11. Learn to lock pick - January 2023
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -26,7 +28,6 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 11. Go to psychic
 12. Take a dance class
 13. Learn to juggle
-14. Learn to lock pick
 15. Bench 225lbs
 16. Vacation Solo
 17. Climb a mountain (Higher than mt marcy)

@@ -29,6 +29,7 @@ Tracking all of the states visited and states I need to visit
 - Virginia
 - West Virginia 
 - Nevada
+- Minnesota
 
 ## States To Go To
 - Alaska
@@ -39,7 +40,6 @@ Tracking all of the states visited and states I need to visit
 - Idaho
 - Iowa
 - Kansas
-- Minnesota
 - Mississippi
 - Montana
 - Nebraska

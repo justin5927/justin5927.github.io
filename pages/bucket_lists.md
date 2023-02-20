@@ -13,6 +13,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 9. Have 1000 Connections on Linkedin - December 2022
 10. Write a blog (Wrote on Medium) - December 2022
 11. Learn to lock pick - January 2023
+12. Vacation Solo (Mall of America) - February 2023 
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -28,23 +29,23 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 11. Go to psychic
 12. Take a dance class
 13. Learn to juggle
-15. Bench 225lbs
-16. Vacation Solo
-17. Climb a mountain (Higher than mt marcy)
-18. Learn a new instrument
-19. Gamble in Vegas
-20. Attend the Olympics
-21. Tough Mudder
-22. Attend Defcon (Hacker Conference)
-23. Be a extra in a movie
-24. Create a will
-25. Go to Michelin Star Resturant
-26. Go to NBA Game
-27. Be a Audience Member in a Gameshow
-28. Do a Sensory Deprivation Tank
-29. Axe Throwing
-30. Become a Notary Public
+14. Bench 225lbs
+15. Climb a mountain (Higher than mt marcy)
+16. Learn a new instrument
+17. Gamble in Vegas
+18. Attend the Olympics
+19. Tough Mudder
+20. Attend Defcon (Hacker Conference)
+21. Be a extra in a movie
+22. Create a will
+23. Go to Michelin Star Resturant
+24. Go to NBA Game
+25. Be a Audience Member in a Gameshow
+26. Do a Sensory Deprivation Tank
+27. Axe Throwing
+38. Become a Notary Public
 
+# Stretch 
 1. Visit all 7 Continents
 2. Start company 
 3. Start a charity

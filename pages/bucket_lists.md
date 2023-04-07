@@ -14,6 +14,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 10. Write a blog (Wrote on Medium) - December 2022
 11. Learn to lock pick - January 2023
 12. Vacation Solo (Mall of America) - February 2023 
+13. Go to NBA Game (Celtics vs Knicks) - March 2023
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -39,7 +40,6 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 21. Be a extra in a movie
 22. Create a will
 23. Go to Michelin Star Resturant
-24. Go to NBA Game
 25. Be a Audience Member in a Gameshow
 26. Do a Sensory Deprivation Tank
 27. Axe Throwing

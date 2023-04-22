@@ -15,6 +15,8 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 11. Learn to lock pick - January 2023
 12. Vacation Solo (Mall of America) - February 2023 
 13. Go to NBA Game (Celtics vs Knicks) - March 2023
+14. Go to Michelin Star Resturant - March 2023
+15. Axe Throwing - April 2023
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -39,11 +41,9 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 20. Attend Defcon (Hacker Conference)
 21. Be a extra in a movie
 22. Create a will
-23. Go to Michelin Star Resturant
 25. Be a Audience Member in a Gameshow
 26. Do a Sensory Deprivation Tank
-27. Axe Throwing
-38. Become a Notary Public
+27. Become a Notary Public
 
 # Stretch 
 1. Visit all 7 Continents

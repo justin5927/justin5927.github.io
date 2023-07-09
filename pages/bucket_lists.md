@@ -44,6 +44,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 25. Be a Audience Member in a Gameshow
 26. Do a Sensory Deprivation Tank
 27. Become a Notary Public
+28. Jump and touch basketball rim
 
 # Stretch 
 1. Visit all 7 Continents

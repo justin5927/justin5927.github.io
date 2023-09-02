@@ -46,6 +46,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 27. Become a Notary Public
 28. Jump and touch basketball rim
 29. Learn to spin basketball on finger
+30. Eat at Hell's Kitchen
 
 # Stretch 
 1. Visit all 7 Continents

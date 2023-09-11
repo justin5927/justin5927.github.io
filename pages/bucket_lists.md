@@ -17,6 +17,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 13. Go to NBA Game (Celtics vs Knicks) - March 2023
 14. Go to Michelin Star Resturant - March 2023
 15. Axe Throwing - April 2023
+16. Be a Audience Member in a Gameshow - Sept 2023
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -41,12 +42,11 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 20. Attend Defcon (Hacker Conference)
 21. Be a extra in a movie
 22. Create a will
-25. Be a Audience Member in a Gameshow
-26. Do a Sensory Deprivation Tank
-27. Become a Notary Public
-28. Jump and touch basketball rim
-29. Learn to spin basketball on finger
-30. Eat at Hell's Kitchen
+23. Do a Sensory Deprivation Tank
+24. Become a Notary Public
+25. Jump and touch basketball rim
+26. Learn to spin basketball on finger
+27. Eat at Hell's Kitchen
 
 # Stretch 
 1. Visit all 7 Continents

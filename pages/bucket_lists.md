@@ -18,6 +18,7 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 14. Go to Michelin Star Resturant - March 2023
 15. Axe Throwing - April 2023
 16. Be a Audience Member in a Gameshow - Sept 2023
+17. Eat at Hell's Kitchen - Feb 14, 2024
 
 ## Bucketlist 
 1. Visit all 50 states
@@ -46,7 +47,6 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 24. Become a Notary Public
 25. Jump and touch basketball rim
 26. Learn to spin basketball on finger
-27. Eat at Hell's Kitchen
 
 # Stretch 
 1. Visit all 7 Continents

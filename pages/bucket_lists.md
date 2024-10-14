@@ -19,34 +19,35 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 15. Axe Throwing - April 2023
 16. Be a Audience Member in a Gameshow - Sept 2023
 17. Eat at Hell's Kitchen - Feb 14, 2024
+18. Get Married - Sept 28, 2024
 
 ## Bucketlist 
-1. Visit all 50 states
-2. Make 1 time donation of $10,000
-3. Teach a class (Highschool/College)
-4. Faster than 20 minute 5K
-5. Take career gap period
-6. Hold a monkey
-7. Get Married
-8. Have a child
-9. Buy house
-10. See northern lights
-11. Go to psychic
-12. Take a dance class
-13. Learn to juggle
-14. Bench 225lbs
-15. Climb a mountain (Higher than mt marcy)
-16. Learn a new instrument
-17. Gamble in Vegas
-18. Attend the Olympics
-19. Tough Mudder
-20. Attend Defcon (Hacker Conference)
-21. Be a extra in a movie
-22. Create a will
-23. Do a Sensory Deprivation Tank
-24. Become a Notary Public
-25. Jump and touch basketball rim
-26. Learn to spin basketball on finger
+- Visit all 50 states
+- Make 1 time donation of $10,000
+- Teach each a class (Highschool/College)
+- Faster than 20 minute 5K
+- Take career gap period
+- Hold a monkey
+- Have a child
+- Buy house
+- See northern lights
+- Go to psychic
+- Take a dance class
+- Learn to juggle
+- Bench 225lbs
+- Climb a mountain (Higher than mt marcy)
+- Learn a new instrument
+- Gamble in Vegas
+- Attend the Olympics
+- Tough Mudder
+- Attend Defcon (Hacker Conference)
+- Be a extra in a movie
+- Create a will
+- Do a Sensory Deprivation Tank
+- Become a Notary Public
+- Jump and touch basketball rim
+- Learn to spin basketball on finger
+- Go vegatarian for a month
 
 # Stretch 
 1. Visit all 7 Continents

@@ -20,6 +20,8 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 16. Be a Audience Member in a Gameshow - Sept 2023
 17. Eat at Hell's Kitchen - Feb 14, 2024
 18. Get Married - Sept 28, 2024
+19. Go vegatarian for a month - October, 2024
+20. Take train instead of flying - Feb 7, 2024
 
 ## Bucketlist 
 - Visit all 50 states
@@ -47,7 +49,6 @@ For Suggestions for new ideas put them in [Bucket List Idea Doc](https://docs.go
 - Become a Notary Public
 - Jump and touch basketball rim
 - Learn to spin basketball on finger
-- Go vegatarian for a month
 
 # Stretch 
 1. Visit all 7 Continents
